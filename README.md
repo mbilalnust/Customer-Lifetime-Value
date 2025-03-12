@@ -132,3 +132,6 @@ The analysis provides:
 - Customer segmentation (A, B, C, D segments)
 - Segment-specific marketing strategies
 - Purchase predictions for different time horizons
+
+## Credit
+I used kaggle repo as my base for this project. https://www.kaggle.com/code/aylinzgr/cltv-prediction-with-bg-nbd-and-gamma-gamma/notebook
